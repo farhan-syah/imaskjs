@@ -1,5 +1,5 @@
 {
-  "name": "@imask/svelte",
+  "name": "@farhansyah/imask-svelte",
   "author": "Alexey Kryazhev",
   "license": "MIT",
   "version": "7.0.0-alpha.2",
@@ -27,5 +27,6 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "228f2a4dce7125d0c7156868fcb5364b4487c8e6"
+  "gitHead": "228f2a4dce7125d0c7156868fcb5364b4487c8e6",
+  "type": "module"
 }

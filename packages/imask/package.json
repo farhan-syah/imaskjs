@@ -1,5 +1,5 @@
 {
-  "name": "imask",
+  "name": "@farhansyah/imask",
   "version": "7.0.0-alpha.2",
   "author": "Alexey Kryazhev",
   "license": "MIT",
@@ -30,5 +30,6 @@
   "gitHead": "228f2a4dce7125d0c7156868fcb5364b4487c8e6",
   "dependencies": {
     "@babel/runtime-corejs3": "^7.22.3"
-  }
+  },
+  "type": "module"
 }
